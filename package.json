@@ -1,6 +1,6 @@
 {
   "name": "yapi-plugin-sso2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "yapi plugin sso",
   "main": "index.js",
   "scripts": {
