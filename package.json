@@ -1,0 +1,20 @@
+{
+  "name": "yapi-plugin-sso2",
+  "version": "1.0.0",
+  "description": "yapi plugin sso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haru1990/yapi-plugin-sso2.git"
+  },
+  "author": "fangxu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haru1990/yapi-plugin-sso2/issues"
+  },
+  "homepage": "https://github.com/Haru1990/yapi-plugin-sso2#readme"
+}
