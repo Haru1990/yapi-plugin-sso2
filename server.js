@@ -4,7 +4,6 @@ module.exports = function (options) {
   const { loginUrl, emailPostfix } = options;
 
   this.bindHook('third_login', (ctx) => {
-    console.log(ctx.header.cookie, 'ctx');
     return new Promise((resolve, reject) => {
       request({
         url: loginUrl,
